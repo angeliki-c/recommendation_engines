@@ -6,8 +6,8 @@ Recommendation engines
  
 Techniques followed
 
-    	For as much as we think that personal taste is inexplicable and often hard to describe, recommenders do a
-    	surprisingly good job of identifying things that match our preferences (books, music tracks and others),
+	For as much as we think that personal taste is inexplicable and often hard to describe, recommenders do a
+	surprisingly good job of identifying things that match our preferences (books, music tracks and others),
         which we didn’t know we would like.
 	
 	The algorithm used for the music recommendation engine is the ALS - Alternative Least Squares (collaborative
