@@ -1,8 +1,6 @@
-# recommendation_engines
-
-Recommendation engines
+## Recommendation Engines
     
- 
+### Recommender of Music Artists
  
 Techniques followed
 
