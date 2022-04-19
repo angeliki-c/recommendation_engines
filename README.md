@@ -92,10 +92,10 @@ Code
        	    exec(open("project/location/recommendation_engines/music_recommender.py").read()) for an all at once execution.
 	The code has been tested on a Spark standalone cluster. For the Spark setting, spark-3.1.3-bin-hadoop2.7 bundle has 
 	been used. The external python packages that are used in this implementation exist in the requirements.txt file. 
-    	Install with: 
+	Install with: 
 		pip install -r project/location/recommendation_engines/requirements.txt
-    	This use case is inspired from the series of experiments presented in [4], though it deviates from it, in the
-    	programming language, the setting used and in the analysis followed.
+	This use case is inspired from the series of experiments presented in [4], though it deviates from it, in the
+	programming language, the setting used and in the analysis followed.
    
 
 
