@@ -8,7 +8,7 @@ Techniques followed
 
 	For as much as we think that personal taste is inexplicable and often hard to describe, recommenders do a
 	surprisingly good job of identifying things that match our preferences (books, music tracks and others),
-        which we didn’t know we would like.
+	which we didn’t know we would like.
 	
 	The algorithm used for the music recommendation engine is the ALS - Alternative Least Squares (collaborative
 	filtering), which is indicative for processing large amounts of data in a distributed environment, as it is
@@ -26,10 +26,10 @@ Techniques followed
 
 Data set
    
-    	The dataset in this case study is a summarized, sanitized subset of one, released at The 2nd International
-    	Workshop on Information Heterogeneity and Fusion in Recommender Systems (HetRec 2011), currently hosted at
+   	The dataset in this case study is a summarized, sanitized subset of one, released at The 2nd International
+	Workshop on Information Heterogeneity and Fusion in Recommender Systems (HetRec 2011), currently hosted at
 	the GroupLens website. The original dataset is available at [1] and its description at [2].
-    	The sanitized version was drawn from [3]. This is relatively a small dataset expected to fit and be analyzed 
+	The sanitized version was drawn from [3]. This is relatively a small dataset expected to fit and be analyzed 
 	locally or on one node of your cluster.
 	lastfm_artist_list.csv : the artists' dataset, composed of two columns 'artist_id' and 'artist_name' and
 				 17493 records					 
